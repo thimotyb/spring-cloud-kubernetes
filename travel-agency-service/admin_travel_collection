@@ -1,0 +1,7 @@
+{
+    _id: ObjectId('61f889ecbf91147181ae11f6'),
+    id: 1,
+    destination: 'Milan',
+    description: 'cool',
+    deal_price: 1
+}
